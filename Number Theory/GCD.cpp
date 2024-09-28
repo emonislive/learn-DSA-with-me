@@ -1,8 +1,8 @@
 // GCD (Greatest Common Divisor) or HCF (Highest Common Factor)
 #include <iostream>
 using namespace std;
-
 #define endl '\n'
+
 void gcd() {
     int a, b, mod;
     cout << "Enter Two Numbers : ";
@@ -15,6 +15,7 @@ void gcd() {
     }
     printf("Greatest Common Divisor GCD(%d,%d): %d\n", tmp1, tmp2, a);
 }
+
 int main() {
     gcd();
     return 0;
