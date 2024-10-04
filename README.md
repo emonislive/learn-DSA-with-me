@@ -4,6 +4,8 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
 ### Data Structures
 - **Stack**
   - [Implementation using STL Vectors](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Stack.cpp)
+- **Linked List**
+  - [Implementation of Single Linked List](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Linked%20List.cpp)
 
 ### Number Thoery
 - **Greatest Common Divisor (GCD) / Highest Common Factor (HCF)**
