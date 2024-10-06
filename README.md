@@ -16,6 +16,8 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - [Implementation using Iterative Approach](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/Fibonacci.cpp)
 - **Factorial**
   - [Implementation using Iterative Approach](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/Factorial.cpp)
+- **Divisor**
+  - [Implementation using Optimized Divisor Counting Algorithm](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/Divisor.cpp)
 
 ## How to Use
 Each data structure and algorithm is implemented in a separate C++ file with detailed comments explaining the code. You can browse through the files to study and understand each concept.
