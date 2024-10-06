@@ -27,7 +27,7 @@ void solve(int n)
                 c++;
         }
     }
-    /* this is the brute force method
+    /* // this is the brute force method
     for (int i = 1; i <= n; i++)
     {
         if (n % i == 0)
@@ -36,6 +36,18 @@ void solve(int n)
         //  cout << i << " ";
         }
     }
+    */
+    /*
+    // This is the most efficient method
+    vector<ll> v(1000001, 0);
+    for (ll i = 1; i < 1000001; i++)
+    {
+        for (ll j = i; j < 1000001; j += i)
+        {
+            v[j]++;
+        }
+    }
+    cout << v[n] << endl;
     */
     cout << c << endl;
 }
