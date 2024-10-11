@@ -13,7 +13,7 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - Doubly linked lists
   - Circular linked lists
 - **Searching**
-  - Linear search
+  - [Linear search](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Linear%20Search.cpp)
   - Binary search
 - **Sorting**
   - Bubble sort
