@@ -1,5 +1,6 @@
 Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’m dropping all my C++ DSA code. It’s basically my digital notebook for learning and a go-to spot for quick revision.
-
+> [!NOTE]
+> The blue lebeled topics are included here. ex. [Topic Name]()
 # Contents
 ### Data Structures & Algorithms
 
