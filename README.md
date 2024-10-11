@@ -5,9 +5,9 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
 ### Data Structures & Algorithms
 
 - **Arrays**
-  - One-dimensional arrays
-  - Multi-dimensional arrays
-  - Dynamic arrays (vectors)
+  - [One-dimensional arrays](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Array.cpp)
+  - [Multi-dimensional arrays](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Array.cpp)
+  - [Dynamic arrays (vectors)](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Array.cpp)
 - **Linked Lists**
   - [Singly linked lists](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Linked%20List.cpp)
   - Doubly linked lists
