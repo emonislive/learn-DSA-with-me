@@ -18,7 +18,7 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
 - **Sorting**
   - Bubble sort
   - Insertion sort
-  - Selection sort
+  - [Selection sort](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Selection%20Sort.cpp)
   - Merge sort
   - Quick sort   
   - Heap sort
