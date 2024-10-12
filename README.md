@@ -16,7 +16,7 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - [Linear search](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Linear%20Search.cpp)
   - Binary search
 - **Sorting**
-  - Bubble sort
+  - [Bubble sort](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Bubble%20Sort.cpp)
   - Insertion sort
   - [Selection sort](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Selection%20Sort.cpp)
   - Merge sort
