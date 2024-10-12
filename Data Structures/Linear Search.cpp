@@ -14,17 +14,14 @@ void linearSearch(int arr[], int len, int search) {
 }
 int main() {
     int len, search;
-    
     cout << "Enter The Length of the Array: ";
     cin >> len;
     
     int arr[len];
-    
     cout << "Enter The Array: ";
     for (int i = 0; i < len; i++) {
         cin >> arr[i];
     }
-    
     cout << "Enter a value to search: ";
     cin >> search;
     linearSearch(arr, len, search);
