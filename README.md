@@ -14,12 +14,12 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - Circular linked lists
 - **Searching**
   - [Linear search](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Linear%20Search.cpp)
-  - Binary search
+  - [Binary search](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Binary%20Search.cpp)
 - **Sorting**
   - [Bubble sort](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Bubble%20Sort.cpp)
   - Insertion sort
   - [Selection sort](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Selection%20Sort.cpp)
-  - Merge sort
+  - [Merge sort](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Merge%20Sort.cpp)
   - Quick sort   
   - Heap sort
   - Radix sort
