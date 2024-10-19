@@ -17,7 +17,7 @@ void merge(vector<int>& arr, int start, int mid, int end) {
     for (int i = 0; i < s1ze; i++) {
         leftArr[i] = arr[start + i];
     }
-    for (int i = 0; i < s1ze; i++) {
+    for (int i = 0; i < s2ze; i++) {
         rightArr[i] = arr[mid + 1 + i];
     }
     int i = 0;
@@ -39,7 +39,7 @@ void merge(vector<int>& arr, int start, int mid, int end) {
         i++;
         k++;
     }
-    while (i < s2ze) {
+    while (j < s2ze) {
         arr[k] = rightArr[j];
         j++;
         k++;
