@@ -8,7 +8,7 @@ void binarySearch(vector<int> arr, int len, int find) {
     int start = 0;
     int end = len - 1;
     while (start <= end) {
-        int mid = (start + end) / 2;
+        int mid = start + (end - start) / 2;
         if (arr[mid] == find) {
             cout << "found" << endl;
             return;
