@@ -10,8 +10,8 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - [Dynamic arrays (vectors)](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Array.cpp)
 - **Cumulative and Range Query Techniques**
   - [Prefix Sums](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/prefix%20sum.cpp)
-  - [Fenwick Trees (Binary Indexed Trees)]
-  - [Segment Trees]
+  - Fenwick Trees (Binary Indexed Trees)
+  - Segment Trees
 - **Linked Lists**
   - [Singly linked lists](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Linked%20List.cpp)
   - Doubly linked lists
