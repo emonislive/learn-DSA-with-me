@@ -84,6 +84,9 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
 - **Prime Number**
   - [Implementation using Trial Division Algorithm](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/Prime%20Number.cpp)
 
+### Recursion
+- [Base Case and Recursive Case]()
+- [Unwinding in Recursive function]()
 
 
 
