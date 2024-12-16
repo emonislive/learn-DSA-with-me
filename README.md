@@ -85,8 +85,8 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - [Implementation using Trial Division Algorithm](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/Prime%20Number.cpp)
 
 ### Recursion
-- [Base Case and Recursive Case]()
-- [Unwinding in Recursive function]()
+- [Base Case and Recursive Case](https://github.com/emonislive/learn-DSA-with-me/blob/main/Extras/Base%20and%20Recursion.cpp)
+- [Unwinding in Recursive function](https://github.com/emonislive/learn-DSA-with-me/blob/main/Extras/Unwinding%20in%20Recursion.cpp)
 
 
 
