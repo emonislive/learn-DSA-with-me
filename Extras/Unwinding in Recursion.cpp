@@ -33,7 +33,7 @@ int main()
  * rec(3, 5)	    Call rec(4, 5)	    [rec(1, 5), rec(2, 5), rec(3, 5)]
  * rec(4, 5)	    Call rec(5, 5)	    [rec(1, 5), rec(2, 5), rec(3, 5), rec(4, 5)]
  * rec(5, 5)	    Call rec(6, 5)	    [rec(1, 5), rec(2, 5), rec(3, 5), rec(4, 5), rec(5, 5)]
- * rec(6, 5)	    Base case: Return	(Start unwinding)
+ * rec(6, 5)	    Base case: Return	    (Start unwinding)
  *
  * Output: 5 4 3 2 1 (Reverse Print The Values)
  */
