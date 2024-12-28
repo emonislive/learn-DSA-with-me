@@ -14,7 +14,7 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - Segment Trees
 - **Linked Lists**
   - [Singly linked lists](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Singly%20Linked%20List.cpp)
-  - Doubly linked lists
+  - [Doubly linked lists](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Doubly%20Linked%20List.cpp)
   - Circular linked lists
 - **Searching**
   - [Linear search](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Linear%20Search.cpp)
