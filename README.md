@@ -3,7 +3,7 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
 > The blue lebeled topics are included here. ex. [Topic Name]()
 # Contents
 
-### STL(Standard Template Library)
+### STL(Standard Template Library) (no content added yet for this section)
 #### STL Containers
 - **Sequence Containers**
 - **[`vector`]()**: Dynamic array that can resize automatically.
