@@ -14,5 +14,6 @@ int main()
     ll a, b;
     cin >> a >> b;
     solve(a, b);
+    
     return 0;
 }
