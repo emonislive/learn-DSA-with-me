@@ -61,7 +61,7 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - Tabulation
 - **Stacks**
   - [Implementation using arrays](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/Stack.cpp)
-  - Implementation using linked lists
+  - [Implementation using linked lists](https://github.com/emonislive/learn-DSA-with-me/blob/main/Data%20Structures/stack%20-%20using%20doubly%20list.cpp)
 - **Queues**
   - Implementation using arrays
   - Implementation using linked lists
