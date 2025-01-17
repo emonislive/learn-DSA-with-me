@@ -111,6 +111,10 @@ Hey there! Welcome to my Data Structures and Algorithms repo! This is where I’
   - [Implementation using Optimized Divisor Counting Algorithm](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/Divisor.cpp)
 - **Prime Number**
   - [Implementation using Trial Division Algorithm](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/Prime%20Number.cpp)
+- **Ceil Number**
+  - [Positive Integer](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/ceil.cpp)
+- **Floor Number**
+  - [Positive & Negative Number](https://github.com/emonislive/learn-DSA-with-me/blob/main/Number%20Theory/Floor.cpp)
 
 ### Recursion
 - [Base Case and Recursive Case](https://github.com/emonislive/learn-DSA-with-me/blob/main/Extras/Base%20and%20Recursion.cpp)
